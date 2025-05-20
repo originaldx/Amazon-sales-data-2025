@@ -16,5 +16,5 @@ Rows: 250 | Columns: 11
 
 Text-to-column: changed the date format from text to Date(dd/mm/yyy)
 
-![image]()
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/main/Amazon%201.png?raw=true)
 
