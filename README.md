@@ -22,4 +22,11 @@ Importing the data set for futher cleaning in power BI using the Getdata feature
 
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/c4ed7a9d5d97095f6659dc40c8698e501f1526e4/Amazon%202.png)
 
+On the Navigator page, select the table you want to work on and click on Tranform for further cleaning then close and apply
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/dcea5ca352335b8ab7da57649fe6925991b5e5d7/Amazon%203.png)
+
+
+
+
+
 
