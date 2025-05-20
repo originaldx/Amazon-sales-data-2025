@@ -20,3 +20,5 @@ Text-to-column: changed the date format from text to Date(dd/mm/yyy)
 
 Importing the data set for futher cleaning in power BI using the Getdata feature
 
+![image]()
+
