@@ -9,8 +9,8 @@ Source: Kaggle - Amazon sales data 2025
 Rows: 250 | Columns: 11
 
 ## Tools used: 
-Microsoft Excel : Initial cleaning 
-Power BI : Further cleaning and analysis
+. Microsoft Excel : Initial cleaning 
+. Power BI : Further cleaning and analysis
 
 
 
