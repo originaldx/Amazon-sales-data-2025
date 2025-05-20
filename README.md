@@ -15,4 +15,5 @@ Rows: 250 | Columns: 11
 ## Steps Performed
 
 Text-to-column: changed the date format from text to Date(dd/mm/yyy)
-!(image)[Amazon 1.png]
+![Image](Amazon 1.png)
+
