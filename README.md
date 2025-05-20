@@ -12,5 +12,11 @@ Rows: 250 | Columns: 11
 * Microsoft Excel : Initial cleaning 
 * Power BI : Further cleaning and analysis
 
+## Steps Performed
+
+Text-to-column: changed the date format from text to Date(dd/mm/yyy)
+!image(
+
+
 
 
