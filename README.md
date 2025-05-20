@@ -18,3 +18,5 @@ Text-to-column: changed the date format from text to Date(dd/mm/yyy)
 
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/main/Amazon%201.png?raw=true)
 
+Importing the data set for futher cleaning in power BI using the Getdata feature
+
