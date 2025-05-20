@@ -20,5 +20,6 @@ Text-to-column: changed the date format from text to Date(dd/mm/yyy)
 
 Importing the data set for futher cleaning in power BI using the Getdata feature
 
-![image]()
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/c4ed7a9d5d97095f6659dc40c8698e501f1526e4/Amazon%202.png)
+
 
