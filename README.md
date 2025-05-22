@@ -109,7 +109,7 @@ The business question was generated based on the dataset, below are the insights
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/70908df3acc6f968c674b2867d2c99f001544a35/Dashboard%201.png)
 Revenue Overview
 
-![image]()
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/af595fc973d3ff89745eba34dab1205a0bd11ce1/Dashboard%202.png)
 Product performance
 
 ![image]()
