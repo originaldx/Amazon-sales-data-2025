@@ -107,6 +107,24 @@ The business question was generated based on the dataset, below are the insights
 ## Power BI Dashboard
 
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/70908df3acc6f968c674b2867d2c99f001544a35/Dashboard%201.png)
+Revenue Overview
+
+![image]()
+Product performance
+
+![image]()
+Customer insights
+
+![image]()
+Geographical Analysis
+
+![image]()
+Time Trends
+
+
+## Recommendations
+
+
 
 
 
