@@ -102,6 +102,13 @@ Based on the Amazon sales dataset provided, here are key business questions to a
 
 32. How do new vs returning customer purchase behaviors differ?
 
+The business question was generated based on the dataset, below are the insights/Results 
+
+## Power BI Dashboard
+
+![image]()
+
+
 
 
 
