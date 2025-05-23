@@ -115,7 +115,7 @@ Product performance
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/ba7c9a76b7e25462e5741d2a46c0355d103416ab/Dashboard%203.png)
 Customer insights
 
-![image]()
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/cad360968a6a1e81ea597d360a3f21e225a96ff5/Dashboard%204.png)
 Geographical Analysis
 
 ![image]()
