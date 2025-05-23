@@ -118,7 +118,7 @@ Customer insights
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/cad360968a6a1e81ea597d360a3f21e225a96ff5/Dashboard%204.png)
 Geographical Analysis
 
-![image]()
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/809419ea0e83c33edce6e2cf23c89e6ff1b0d798/Dashboard%205.png)
 Time Trends
 
 
