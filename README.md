@@ -123,7 +123,39 @@ Time Trends
 
 
 ## Recommendations
+1. Top-Performing Categories
+Focus on Electronics & Home Appliances (highest revenue).
 
+Bundle low-performing items (Books, Clothing) with bestsellers.
+
+2. Customer Retention Strategies
+Reward top customers (Emma Clark, Olivia Wilson, Jane smith) with loyalty discounts.
+
+Reduce cancellations by offering discounts on pending orders (especially for Electronics).
+
+3. Time-Based Promotions
+Boost weekend sales (highest demand on Sat/Sun).
+
+Run mid-week deals (Tue/Wed are slowest).
+
+4. Geographic Optimization
+Increase marketing in high-revenue cities (NY, SF, Houston, Miami).
+
+Test promotions in underperforming areas (Denver, Boston).
+5. Payment & Pricing
+Promote Credit Card & PayPal (most popular methods).
+
+Offer EMI options for high-ticket items (Laptops, Refrigerators).
+
+6. Inventory Management
+Stock more fast-selling items (Smartphones, Smartwatches).
+
+Clear slow-moving stock via bundles or discounts.
+
+7. Marketing Tactics
+Use cross-selling (e.g., "Frequently bought together").
+
+Leverage seasonal trends (March had peak sales).
 
 
 
