@@ -112,7 +112,7 @@ Revenue Overview
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/af595fc973d3ff89745eba34dab1205a0bd11ce1/Dashboard%202.png)
 Product performance
 
-![image]()
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/ba7c9a76b7e25462e5741d2a46c0355d103416ab/Dashboard%203.png)
 Customer insights
 
 ![image]()
