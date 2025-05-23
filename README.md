@@ -16,7 +16,7 @@ Rows: 250 | Columns: 11
 
 Text-to-column: changed the date format from text to Date(dd/mm/yyy)
 
-![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/main/Amazon%201.png?raw=true)
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/ddad88ffeb21963d653a81be2c97f81305c4f1d2/Amazon%201.png)
 
 Importing the data set for futher cleaning in power BI using the Getdata feature
 
