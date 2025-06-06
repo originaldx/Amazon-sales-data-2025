@@ -106,7 +106,7 @@ The business question was generated based on the dataset, below are the insights
 
 ## Power BI Dashboard
 
-![image]([https://github.com/originaldx/Amazon-sales-data-2025/blob/70908df3acc6f968c674b2867d2c99f001544a35/Dashboard%201.png](https://github.com/originaldx/Amazon-sales-data-2025/blob/main/Screenshot%202025-06-06%20074747.png?raw=true))
+![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/04850df341910788a9a4306056684f1b0bf6fdbe/Screenshot%202025-06-06%20074747.png)
 Revenue Overview
 
 ![image](https://github.com/originaldx/Amazon-sales-data-2025/blob/af595fc973d3ff89745eba34dab1205a0bd11ce1/Dashboard%202.png)
